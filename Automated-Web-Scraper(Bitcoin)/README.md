@@ -39,7 +39,7 @@ Replace `your file path` with your desired full path. For example:
 
 ```python
 r'C:\Users\yourname\Documents\Crypto_Automated_Pull.csv'
-
+```
 3.**Run the script:**
 python crypto_scraper.py
 # 📈 Crypto Scraper - Automated Bitcoin Web Scraper
